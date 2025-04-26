@@ -1,4 +1,4 @@
-FROM silex/emacs:29.4-alpine
+FROM silex/emacs:30.1-alpine
 
 # TODO(FAP): install emacs package dependencies during Docker image build?
 
